@@ -2,10 +2,8 @@ Sistema Pet - Front-end
 👉 Acesse a aplicação online aqui:
 https://yuri-fernandes-dev.github.io/sistema_Pet_FRONT-END/
 
-Back-end:
+Back-end
 https://github.com/Yuri-Fernandes-dev/sitema_pet_back-end
-
-
 
 Descrição
 Sistema Pet é uma aplicação front-end feita com HTML, CSS e JavaScript (ou framework que usou, se for o caso), que tem como objetivo gerenciar serviços e cadastros para pet shops e clientes. A interface é moderna, responsiva e fácil de usar.
@@ -61,5 +59,5 @@ HTML5
 CSS3
 
 JavaScript
-JAVA SPRING BOOT
 
+Java Spring Boot
